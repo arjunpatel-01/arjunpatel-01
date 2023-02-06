@@ -44,4 +44,4 @@ I am a 4th year undergraduate student at UT Austin looking for a full-time posit
 ![](https://github-profile-trophy.vercel.app/?username=arjunpatel-01&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arjunpatel-01&icon=5&color=2)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=arjunpatel-01&icon=5&color=2)](https://visitcount.itsvg.in) -->

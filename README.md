@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fresh graduate from The University of Texas at Austin - Cockrell School of Engineering. I am looking for a position in back-end or full-stack software engineering roles.
+I am a recent graduate from The University of Texas at Austin - Cockrell School of Engineering. I am looking for a position in back-end or full-stack software engineering roles.
 
 
 ## 🌐 Socials:

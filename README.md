@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent graduate from The University of Texas at Austin - Cockrell School of Engineering. I am looking for a position in back-end or full-stack software engineering roles.
+I am a Back End Engineer at HOA Express.
 
 
 ## 🌐 Socials:
